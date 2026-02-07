@@ -8,7 +8,7 @@
         "phone": "+91 7405306408",
         "location": "Jamnagar, Gujarat",
         "gender": "Male",
-        "avatar": "/profile.jpeg",
+        "avatar": "/profile.png",
         "resumeUrl": "/resume.pdf",
         "socialLinks": {
             "github": "https://github.com/hideoxd",
@@ -69,7 +69,7 @@
             "id": 1,
             "title": "TaskNudge - To Do Application",
             "description": "A production-ready Android application that helps users track daily tasks and sends smart reminders when tasks remain incomplete.",
-            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+            "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop",
             "technologies": [
                 "Kotlin"
             ],
@@ -81,7 +81,7 @@
             "id": 2,
             "title": "Nexus AI",
             "description": "Nexus AI is a web app where user use their google API key and get access of the AI based flowchart and self build flowchart.",
-            "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
+            "image": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=800&h=600&fit=crop",
             "technologies": [
                 "React.js",
                 "HTML",
