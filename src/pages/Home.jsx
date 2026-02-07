@@ -71,7 +71,7 @@ export default function Home() {
                 View My Work
                 <ArrowRight size={18} />
               </Link>
-              <a href={personal.resumeUrl} download="Apranshu_Resume.pdf" className="btn btn-secondary">
+              <a href="/Apranshu-CV.pdf" download="Apranshu-CV.pdf" className="btn btn-secondary">
                 <Download size={18} />
                 Download CV
               </a>
