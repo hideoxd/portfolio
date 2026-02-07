@@ -1,0 +1,206 @@
+{
+    "personal": {
+        "name": "Apranshu",
+        "title": "Full Stack Developer",
+        "tagline": "Simply Lovely",
+        "bio": "Passionate developer with 5+ years of experience building modern web applications. I love turning complex problems into simple, beautiful solutions.",
+        "email": "apranshu.as@gmail.com",
+        "phone": "+91 7405306408",
+        "location": "Jamnagar, Gujarat",
+        "gender": "Male",
+        "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
+        "resumeUrl": "/resume.pdf",
+        "socialLinks": {
+            "github": "https://github.com/hideoxd",
+            "linkedin": "https://www.linkedin.com/in/apranshu/",
+            "twitter": "https://x.com/hideocodes",
+            "instagram": "https://www.instagram.com/hideo.xd/"
+        }
+    },
+    "about": {
+        "description": "I'm a creative developer who believes in the power of clean code and beautiful design. With expertise in modern JavaScript frameworks and a keen eye for user experience, I build applications that not only work flawlessly but also delight users.\n\nMy journey in tech started when I built my first website at 15, and since then, I've been hooked on creating digital experiences that make a difference. I specialize in React, Node.js and Kotlin.\n\nWhen I'm not coding, you'll find me sleeping and chilling while watching some good movie or web series or might be listening to some good music on my headphones.",
+        "experience": "Fresher",
+        "projectsCompleted": "2"
+    },
+    "skills": [
+        {
+            "name": "HTML",
+            "level": 100,
+            "category": "Frontend"
+        },
+        {
+            "name": "CSS",
+            "level": 100,
+            "category": "Frontend"
+        },
+        {
+            "name": "JavaScript",
+            "level": 90,
+            "category": "Frontend"
+        },
+        {
+            "name": "React.js",
+            "level": 87,
+            "category": "Backend"
+        },
+        {
+            "name": "Node.js",
+            "level": 82,
+            "category": "Backend"
+        },
+        {
+            "name": "Python",
+            "level": 80,
+            "category": "Backend"
+        },
+        {
+            "name": "MySQL",
+            "level": 78,
+            "category": "Database"
+        },
+        {
+            "name": "Git",
+            "level": 92,
+            "category": "Tools"
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "TaskNudge - To Do Application",
+            "description": "A production-ready Android application that helps users track daily tasks and sends smart reminders when tasks remain incomplete.",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=600&fit=crop",
+            "technologies": [
+                "Kotlin"
+            ],
+            "githubUrl": "https://github.com/hideoxd/TaskNudge",
+            "featured": true,
+            "category": "Android App"
+        },
+        {
+            "id": 2,
+            "title": "Nexus AI",
+            "description": "Nexus AI is a web app where user use their google API key and get access of the AI based flowchart and self build flowchart.",
+            "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=600&fit=crop",
+            "technologies": [
+                "React.js",
+                "HTML",
+                "CSS",
+                "PLppSQL"
+            ],
+            "liveUrl": "https://nexus-ai-steel.vercel.app/",
+            "githubUrl": "https://github.com/hideoxd/Nexus-AI",
+            "featured": true,
+            "category": "Web App"
+        }
+    ],
+    "experience": [
+        {
+            "id": 1,
+            "position": "Senior Full Stack Developer",
+            "company": "TechCorp Inc.",
+            "location": "San Francisco, CA",
+            "duration": "2022 - Present",
+            "description": "Leading development of enterprise applications, mentoring junior developers, and architecting scalable solutions.",
+            "achievements": [
+                "Led team of 5 developers on major product launch",
+                "Improved application performance by 40%",
+                "Implemented CI/CD pipeline reducing deployment time by 60%"
+            ]
+        },
+        {
+            "id": 2,
+            "position": "Full Stack Developer",
+            "company": "StartupXYZ",
+            "location": "Remote",
+            "duration": "2020 - 2022",
+            "description": "Built and maintained multiple client-facing applications using React and Node.js ecosystem.",
+            "achievements": [
+                "Developed 10+ production applications",
+                "Introduced TypeScript improving code quality",
+                "Built reusable component library"
+            ]
+        },
+        {
+            "id": 3,
+            "position": "Frontend Developer",
+            "company": "DigitalAgency",
+            "location": "Los Angeles, CA",
+            "duration": "2019 - 2020",
+            "description": "Created responsive and interactive web experiences for various clients across different industries.",
+            "achievements": [
+                "Delivered 20+ client projects on time",
+                "Optimized website load times by 50%",
+                "Implemented accessibility improvements"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": 1,
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "Marwadi University, Rajkot",
+            "duration": "2025 - 2029",
+            "description": "Specialized in Artificial Intelligence and Machine Learning."
+        },
+        {
+            "id": 2,
+            "degree": "Complete Senior Secondary Schooling",
+            "institution": "Kokilaben Dhirubhai Ambani Reliance Foundation School",
+            "duration": "2025",
+            "description": "Completed my senior secondary schooling while devloping important skills."
+        }
+    ],
+    "services": [
+        {
+            "id": 1,
+            "title": "Web Development",
+            "description": "Custom websites and web applications built with modern technologies for optimal performance.",
+            "icon": "Code"
+        },
+        {
+            "id": 2,
+            "title": "Mobile Development",
+            "description": "Cross-platform mobile apps using React Native that work seamlessly on iOS and Android.",
+            "icon": "Smartphone"
+        },
+        {
+            "id": 3,
+            "title": "UI/UX Design",
+            "description": "User-centered design solutions that combine aesthetics with functionality.",
+            "icon": "Palette"
+        },
+        {
+            "id": 4,
+            "title": "Consulting",
+            "description": "Technical consulting to help you make the right technology decisions.",
+            "icon": "MessageSquare"
+        }
+    ],
+    "testimonials": [
+        {
+            "id": 1,
+            "name": "Sarah Chen",
+            "position": "CEO at TechStartup",
+            "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&h=200&fit=crop&crop=face",
+            "content": "Working with Alex was an absolute pleasure. They delivered our project ahead of schedule and exceeded all expectations. Highly recommended!",
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "name": "Michael Rodriguez",
+            "position": "Product Manager at Enterprise Co",
+            "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&crop=face",
+            "content": "Exceptional technical skills combined with great communication. Alex transformed our vision into reality perfectly.",
+            "rating": 5
+        },
+        {
+            "id": 3,
+            "name": "Emily Watson",
+            "position": "Founder at DesignStudio",
+            "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=200&h=200&fit=crop&crop=face",
+            "content": "The attention to detail and code quality is outstanding. Would definitely work together again on future projects.",
+            "rating": 5
+        }
+    ]
+}
